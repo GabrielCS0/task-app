@@ -5,7 +5,7 @@ This is a very simple task application built on React Native and Expo.
 <br />
 
 <p align="center">
-  <img src='./assets/tasksApp.gif' alt='Task application' />
+  <img src='./assets/tasksApp.gif' alt='Task application' height='585' />
 </p>
 
 <br />
